@@ -1,0 +1,4 @@
+djangopycharm
+=============
+
+Django project
